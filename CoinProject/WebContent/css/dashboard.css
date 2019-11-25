@@ -1,0 +1,41 @@
+/* .button123 { */
+/*   background-color: #4CAF50; */
+/*   border: none; */
+/*   color: white; */
+/*   padding: 15px 32px; */
+/*   text-align: center; */
+/*   text-decoration: none; */
+/*   display: inline-block; */
+/*   font-size: 16px; */
+/*   margin: 4px 2px; */
+/*   cursor: pointer;} */
+
+
+.button3{
+color:#fff;
+padding:20px 50px;
+
+width: 200px;
+height=: 50px;
+border:none;
+outline:none;
+font-size:20px;
+text-shadow:-2px 2px 0 rgba(0,0,0,0.2);
+font-weight:700;
+transition:all .1s linear;
+background:linear-gradient(to bottom,#bced7f,#99e43c);
+box-shadow:-1px 0 1px #80d01d,0 1px 1px #80d01d,-2px 1px 1px #80d01d,-1px 2px 1px #80d01d,-3px 2px 1px #80d01d,-2px 3px 1px #80d01d,-4px 3px 1px #80d01d,-3px 4px 1px #80d01d,-5px 4px 1px #80d01d,-4px 5px 1px #72ba1a,-6px 5px 1px #72ba1a
+}
+.button3:active{
+box-shadow:none;
+-moz-transform:translate3d(-6px,6px,0);
+-ms-transform:translate3d(-6px,6px,0);
+-webkit-transform:translate3d(-6px,6px,0);
+transform:translate3d(-6px,6px,0)
+}
+
+.display{
+	
+	display: inline-block;
+}
+

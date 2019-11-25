@@ -1,0 +1,79 @@
+.parallax {
+  /* The image used */
+  background-image: url("bg.gif");
+  
+
+  /* Set a specific height */
+  min-height: 500px; 
+ 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card1{
+	
+	margin-top: 100px;
+}
+
+.button {
+/*   background-color: rgba(235, 82, 51, 1); */
+  background-image: url("coin.png");
+  background-position: center;
+  border: none;
+  color: white;
+  padding: 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5% 5%;
+}
+
+
+.button1 {
+/*   background-color: rgba(235, 82, 51, 1); */
+  background-image: url("coin.png");
+
+  background-position: center;
+  border: none;
+  color: white;
+  padding: 80px;
+  float: right;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+   margin: 5% 5%;
+}
+
+h1{
+	
+	background-color: rgba(235, 82, 51, 1);
+	border-radius: 20%;
+	padding: 3px;
+}
+
+
+.hhh, form {
+    display: inline;
+    
+}
+
+.button5 {border-radius: 50%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
